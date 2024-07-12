@@ -113,7 +113,7 @@ To change coordinates we need:
 - look up the https://api.weather.gov/gridpoints line under properties 
 - plug that line back into the program it'll look like = https://api.weather.gov/gridpoints/{wfo}/{new lat},{new long}/forecast
 The information for now will just be outputted to the console for now. I have the ability to publicly call the struct values to get
-them later when I need them.
+them later when I need them.\
 Now we are finished and ready to move onto learning how to make a discord bot.
 
     
